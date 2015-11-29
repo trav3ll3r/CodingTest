@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Westpac Exercise</string>
+    <string name="forecast_api_key">b6c8164e0f06e1e356fbd267c4e4e1a5</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_current_weather">Current Weather</string>
+    <string name="default_weather"/>
+    <string name="default_status">…</string>
+
+    <!-- STATUS MESSAGES -->
+    <string name="obtaining_phone_location">Obtaining GPS Location…</string>
+    <string name="calling_api">Calling Forecast API…</string>
+    <string name="response_success">API response: OK</string>
+    <string name="response_error_null">API response: NULL</string>
+    <string name="location_error_disabled">Location Provider (GPS) not available</string>
+</resources>
